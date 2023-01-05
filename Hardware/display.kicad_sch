@@ -4,6 +4,12 @@
 
   (paper "A4")
 
+  (title_block
+    (date "2022-12-27")
+    (rev "0.1")
+    (company "ncAudio")
+  )
+
   (lib_symbols
   )
 
