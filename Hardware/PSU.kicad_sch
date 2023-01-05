@@ -1,0 +1,16 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 1a78f69e-f9fe-4afd-a7db-898a101eef11)
+
+  (paper "A4")
+
+  (title_block
+    (date "2022-12-27")
+    (rev "0.1")
+    (company "ncAudio")
+  )
+
+  (lib_symbols
+  )
+
+)
