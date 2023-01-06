@@ -1581,11 +1581,6 @@
     (uuid ffc4d1cc-9384-4646-8e23-8ca3e0f82dc2)
   )
 
-  (text "TODO:\n1. LiPo Batterie integration\n2. Step Up \n" (at 153.67 76.2 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 07c042c0-5f6d-42c0-bdf2-a520af559a0e)
-  )
-
   (label "5V" (at 99.06 154.94 180)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 487f916e-31c1-42d7-baf3-d3cdaba107b2)
