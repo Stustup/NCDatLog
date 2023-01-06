@@ -217,6 +217,10 @@
   )
 
 
+  (hierarchical_label "bat_sense" (shape input) (at 86.36 90.17 180)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 19d5dc1e-e62a-4854-b8d3-f3bdc11b665b)
+  )
   (hierarchical_label "EN" (shape input) (at 86.36 113.03 180)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 2f9e8c43-b225-490e-9369-19c1a638c427)

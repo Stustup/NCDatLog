@@ -383,11 +383,7 @@
     (uuid f0f9a871-f751-4193-b191-f7584db07c10)
   )
 
-  (hierarchical_label "GND" (shape input) (at 97.79 83.82 0)
-    (effects (font (size 1.27 1.27)) (justify left))
-    (uuid 2b028bb1-ecdc-4606-942a-88c11719a57a)
-  )
-  (hierarchical_label "5V" (shape input) (at 116.84 45.72 0)
+  (hierarchical_label "5V_USB" (shape input) (at 116.84 45.72 0)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 2cba01b9-2ddf-4ef4-87e1-6ba4e622ccf7)
   )
