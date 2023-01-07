@@ -13,4 +13,13 @@
   (lib_symbols
   )
 
+
+  (hierarchical_label "SPI{MOSI MISO SCK ~{CS}}" (shape input) (at 132.08 111.76 180)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 2c787e7f-d8be-48f2-8368-1fec1ea43595)
+  )
+  (hierarchical_label "3V3" (shape input) (at 118.11 97.79 180)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 6bab0832-4f51-40cd-87b8-b9bc4e938e9e)
+  )
 )
